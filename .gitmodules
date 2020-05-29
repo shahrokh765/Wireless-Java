@@ -1,0 +1,6 @@
+[submodule "commons"]
+	path = commons
+	url = https://github.com/shahrokh765/common-tools
+[submodule "spectrum_allocation"]
+	path = spectrum_allocation
+	url = https://github.com/shahrokh765/spectrum_allocation
