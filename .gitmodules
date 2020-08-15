@@ -4,3 +4,6 @@
 [submodule "spectrum_allocation"]
 	path = spectrum_allocation
 	url = git@github.com:shahrokh765/spectrum_allocation.git
+[submodule "localization"]
+	path = localization
+	url = git@github.com:shahrokh765/transmitter_localization.git
